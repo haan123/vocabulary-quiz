@@ -1,0 +1,206 @@
+[
+  {
+    "id": 1,
+    "question": "She go to school every day.",
+    "answer": false,
+    "explanation": "The correct form is **She goes to school every day.** because **she** is a third-person singular subject and requires the verb to be in the third-person singular form."
+  },
+  {
+    "id": 2,
+    "question": "He doesn't like pizza.",
+    "answer": true,
+    "explanation": "The sentence is correct. **Doesn't** is the correct contraction of *does not* for the third-person singular subject *he*."
+  },
+  {
+    "id": 3,
+    "question": "They was happy to see us.",
+    "answer": false,
+    "explanation": "The correct form is **They were happy to see us.** because **they** is a plural subject and requires the verb **to be** in the plural form **were**."
+  },
+  {
+    "id": 4,
+    "question": "She has gone to the store.",
+    "answer": true,
+    "explanation": "The sentence is correct. **Has gone** is the correct present perfect form for the third-person singular subject **she**."
+  },
+  {
+    "id": 5,
+    "question": "I am a student.",
+    "answer": true,
+    "explanation": "The sentence is correct. **Am** is the correct form of the verb **to be** for the first-person singular subject **I**."
+  },
+  {
+    "id": 6,
+    "question": "We was late for the meeting.",
+    "answer": false,
+    "explanation": "The correct form is **We were late for the meeting.** because **we** is a plural subject and requires the verb **to be** in the plural form **were**."
+  },
+  {
+    "id": 7,
+    "question": "He don't know the answer.",
+    "answer": false,
+    "explanation": "The correct form is **He doesn't know the answer.** because **he** is a third-person singular subject and requires the verb **do** in the third-person singular form **does**."
+  },
+  {
+    "id": 8,
+    "question": "She runs every morning.",
+    "answer": true,
+    "explanation": "The sentence is correct. **Runs** is the correct form of the verb for the third-person singular subject **she**."
+  },
+  {
+    "id": 9,
+    "question": "They have finished their homework.",
+    "answer": true,
+    "explanation": "The sentence is correct. **Have finished** is the correct present perfect form for the plural subject **they**."
+  },
+  {
+    "id": 10,
+    "question": "He have a new car.",
+    "answer": false,
+    "explanation": "The correct form is **He has a new car.** because **he** is a third-person singular subject and requires the verb **have** in the third-person singular form **has**."
+  },
+  {
+    "id": 11,
+    "question": "She is going to the store.",
+    "answer": true,
+    "explanation": "The sentence is correct. **Is going** is the correct present continuous form for the third-person singular subject **she**."
+  },
+  {
+    "id": 12,
+    "question": "They was playing soccer.",
+    "answer": false,
+    "explanation": "The correct form is **They were playing soccer.** because **they** is a plural subject and requires the verb **to be** in the plural form **were**."
+  },
+  {
+    "id": 13,
+    "question": "He don't like to read.",
+    "answer": false,
+    "explanation": "The correct form is **He doesn't like to read.** because **he** is a third-person singular subject and requires the verb **do** in the third-person singular form **does**."
+  },
+  {
+    "id": 14,
+    "question": "We are going to the park.",
+    "answer": true,
+    "explanation": "The sentence is correct. **Are going** is the correct present continuous form for the plural subject **we**."
+  },
+  {
+    "id": 15,
+    "question": "She have been to Paris.",
+    "answer": false,
+    "explanation": "The correct form is **She has been to Paris.** because **she** is a third-person singular subject and requires the verb **have** in the third-person singular form **has**."
+  },
+  {
+    "id": 16,
+    "question": "I has a dog.",
+    "answer": false,
+    "explanation": "The correct form is **I have a dog.** because **I** is a first-person singular subject and requires the verb **have**."
+  },
+  {
+    "id": 17,
+    "question": "They doesn't know the answer.",
+    "answer": false,
+    "explanation": "The correct form is **They don't know the answer.** because **they** is a plural subject and requires the verb **do** in the plural form **don't**."
+  },
+  {
+    "id": 18,
+    "question": "He is my best friend.",
+    "answer": true,
+    "explanation": "The sentence is correct. **Is** is the correct form of the verb **to be** for the third-person singular subject **he**."
+  },
+  {
+    "id": 19,
+    "question": "We was watching a movie.",
+    "answer": false,
+    "explanation": "The correct form is **We were watching a movie.** because **we** is a plural subject and requires the verb **to be** in the plural form **were**."
+  },
+  {
+    "id": 20,
+    "question": "She don't like coffee.",
+    "answer": false,
+    "explanation": "The correct form is **She doesn't like coffee.** because **she** is a third-person singular subject and requires the verb **do** in the third-person singular form **does**."
+  },
+  {
+    "id": 21,
+    "question": "They are my friends.",
+    "answer": true,
+    "explanation": "The sentence is correct. **Are** is the correct form of the verb **to be** for the plural subject **they**."
+  },
+  {
+    "id": 22,
+    "question": "He have a dog.",
+    "answer": false,
+    "explanation": "The correct form is **He has a dog.** because **he** is a third-person singular subject and requires the verb **have** in the third-person singular form **has**."
+  },
+  {
+    "id": 23,
+    "question": "I don't like fish.",
+    "answer": true,
+    "explanation": "The sentence is correct. **Don**t** is the correct contraction of **do not** for the first-person singular subject **I**."
+  },
+  {
+    "id": 24,
+    "question": "She run every day.",
+    "answer": false,
+    "explanation": "The correct form is **She runs every day.** because **she** is a third-person singular subject and requires the verb to be in the third-person singular form."
+  },
+  {
+    "id": 25,
+    "question": "We have a meeting.",
+    "answer": true,
+    "explanation": "The sentence is correct. **Have** is the correct form of the verb for the plural subject **we**."
+  },
+  {
+    "id": 26,
+    "question": "He don't like to read.",
+    "answer": false,
+    "explanation": "The correct form is **He doesn't like to read.** because **he** is a third-person singular subject and requires the verb **do** in the third-person singular form **does**."
+  },
+  {
+    "id": 27,
+    "question": "They was excited.",
+    "answer": false,
+    "explanation": "The correct form is **They were excited.** because **they** is a plural subject and requires the verb **to be** in the plural form **were**."
+  },
+  {
+    "id": 28,
+    "question": "She has went to the store.",
+    "answer": false,
+    "explanation": "The correct form is **She has gone to the store.** because **has gone** is the correct present perfect form for the third-person singular subject **she**."
+  },
+  {
+    "id": 29,
+    "question": "I am happy.",
+    "answer": true,
+    "explanation": "The sentence is correct. **Am** is the correct form of the verb **to be** for the first-person singular subject **I**."
+  },
+  {
+    "id": 30,
+    "question": "We was at the park.",
+    "answer": false,
+    "explanation": "The correct form is **We were at the park.** because **we** is a plural subject and requires the verb **to be** in the plural form **were**."
+  },
+  {
+    "id": 31,
+    "question": "He doesn't like ice cream.",
+    "answer": true,
+    "explanation": "The sentence is correct. **Doesn't** is the correct contraction of **does not** for the third-person singular subject **he**."
+  },
+  {
+    "id": 32,
+    "question": "She go to school.",
+    "answer": false,
+    "explanation": "The correct form is **She goes to school.** because **she** is a third-person singular subject and requires the verb to be in the third-person singular form."
+  },
+  {
+    "id": 33,
+    "question": "They have a new house.",
+    "answer": true,
+    "explanation": "The sentence is correct. **Have** is the correct form of the verb for the plural subject **they**."
+  },
+  {
+    "id": 34,
+    "question": "He have a bike.",
+    "answer": false,
+    "explanation": "The correct form is **He has a bike.** because **he** is a third-person singular subject and requires the verb **have** in the third-person singular form **has**."
+  }
+]
