@@ -24,13 +24,13 @@ io.on('connection', (socket) => {
   console.log('New client connected')
 
   socket.on('joinQuiz', async ({ quizId, userName }) => {
-    socket.join(quizId)
+    socket.join([quizId, userName])
     const user = new User({ userName, score: 0 })
     await user.save()
     const question = await fetchQuestion()
 
     io.to(quizId).emit('userJoined', { user })
-    io.to(quizId).emit('getQuestion', { question })
+    io.to(userName).emit('getQuestion', { question })
   })
 
   socket.on('submitAnswer', async ({ quizId, userName, answer, questionId }) => {
@@ -42,7 +42,7 @@ io.on('connection', (socket) => {
 
       user.score += result.score
 
-      io.to(quizId).emit('getResult', { result })
+      io.to(userName).emit('getResult', { result })
 
       await user.save()
 
@@ -52,10 +52,10 @@ io.on('connection', (socket) => {
     }
   })
 
-  socket.on('requestQuestion', async ({ quizId }) => {
+  socket.on('requestQuestion', async ({ userName }) => {
     const question = await fetchQuestion()
 
-    io.to(quizId).emit('getQuestion', { question })
+    io.to(userName).emit('getQuestion', { question })
   })
 
   socket.on('disconnect', () => {
